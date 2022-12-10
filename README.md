@@ -1,5 +1,5 @@
 # RPS-Game
-This is the RPS game by using Java AWT and Java SWING.
+This is the RPS game by using Java AWT and Java swing.
 
 ![Logo](https://tse3.mm.bing.net/th?id=OIP.En6JM25PRnvN-iS4oQ5WSgHaF7&pid=Api&P=0)
 
