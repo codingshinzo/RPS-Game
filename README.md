@@ -46,7 +46,5 @@ I'm a Java developer...
 If you have any feedback, please reach out me : birajdarbhagyashree14@gmail.com
 
 
-## Show Your Support
 
-For support, Give![Logo](https://tse1.mm.bing.net/th?id=OIP.BrGB4mPUpsTi0DY3m82FBwHaKd&pid=Api&rs=1&c=1&qlt=95&w=84&h=119)
 
