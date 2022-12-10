@@ -9,15 +9,6 @@ This is the RPS game by using Java AWT and Java swing.
     • Player play the GAME against Computer.
     • Player have 3 choices.
     • After 3rd round it display the result of Player.
-
-## Installation
-
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
     
 ## 🛠 Skills
 Core Java , Java AWT , Java swing
